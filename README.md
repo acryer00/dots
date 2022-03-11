@@ -8,4 +8,5 @@ I am using fontawesome and Jetbrains mono as fonts;
 you will probably neet to change the slstatus internet connection displayer (idk how to call it ok);
 
 
+
 You can use this files for whatever reason I don't really care
